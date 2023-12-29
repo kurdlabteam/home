@@ -1,2 +1,2 @@
 ## home
-[Paypal](https://kurdlabteam.github.io/home/)
+[Paypal]([https://play.google.com/store/apps/details?id=com.kurdlab.pro)
