@@ -1,2 +1,2 @@
 ## home
-[Paypal]([https://play.google.com/store/apps/details?id=com.kurdlab.pro)
+[KurdLab]([https://play.google.com/store/apps/details?id=com.kurdlab.pro)
