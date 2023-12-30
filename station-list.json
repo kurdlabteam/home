@@ -1,6 +1,5 @@
 [
   {
-    "identificator": "70",
     "name": "Rudaw",
     "stream": "https://l3.itworkscdn.net/itwaudio/9006/stream",
     "picture": "https://i1.sndcdn.com/avatars-000074792155-cm6cy1-t500x500.jpg",
@@ -8,7 +7,6 @@
     "category": "retro"
   },
   {
-    "identificator": "80",
     "name": "Rudaw Tv",
     "stream": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
     "picture": "https://i1.sndcdn.com/avatars-000074792155-cm6cy1-t500x500.jpg",
@@ -16,7 +14,6 @@
     "category": "retro"
   },
   {
-    "identificator": "90",
     "name": "90S",
     "stream": "https://listen1.myradio24.com/5967",
     "picture": "https://glavnoeradio.ru/2610/logo/190.jpg",
@@ -24,7 +21,6 @@
     "category": "retro"
   },
   {
-    "identificator": "electro",
     "name": "ELECTRO",
     "stream": "https://live.radiospinner.com/nu-disco-96",
     "picture": "https://glavnoeradio.ru/2610/logo/1electro.jpg",
@@ -32,7 +28,6 @@
     "category": "retro"
   },
   {
-    "identificator": "techno",
     "name": "TECHNO",
     "stream": "https://amoris.sknt.ru/techno",
     "picture": "https://glavnoeradio.ru/2610/logo/1techno.jpg",
@@ -40,7 +35,6 @@
     "category": "techno"
   },
   {
-    "identificator": "chill",
     "name": "CHILL OUT",
     "stream": "https://live.radiospinner.com/chillout-dreams-96",
     "picture": "https://glavnoeradio.ru/2610/logo/1chill.jpg",
@@ -48,7 +42,6 @@
     "category": "retro"
   },
   {
-    "identificator": "italo_disco",
     "name": "ITALO DISCO",
     "stream": "https://italo.italo.nu/",
     "picture": "https://glavnoeradio.ru/2610/logo/1italo_disco.jpg",
@@ -56,7 +49,6 @@
     "category": "retro"
   },
   {
-    "identificator": "back_in_ussr",
     "name": "BACK IN USSR",
     "stream": "https://live.radiospinner.com/sssrht-96",
     "picture": "https://glavnoeradio.ru/2610/logo/1ussrhit.jpg",
@@ -64,7 +56,6 @@
     "category": "retro"
   },
   {
-    "identificator": "euro_pop",
     "name": "EUROPOP",
     "stream": "https://live.radiospinner.com/clsscrdsc-96",
     "picture": "https://glavnoeradio.ru/2610/logo/1europop.jpg",
@@ -72,7 +63,6 @@
     "category": "retro"
   },
   {
-    "identificator": "russian_rock",
     "name": "RUSSIAN ROCK",
     "stream": "https://live.radiospinner.com/rsskjrk-96",
     "picture": "https://glavnoeradio.ru/2610/logo/1russian_rock.jpg",
@@ -80,7 +70,6 @@
     "category": "retro"
   },
   {
-    "identificator": "relax",
     "name": "RELAX",
     "stream": "https://live.radiospinner.com/enigmatic-chill-96",
     "picture": "https://glavnoeradio.ru/2610/logo/1relax.jpg",
@@ -88,7 +77,6 @@
     "category": "chill"
   },
   {
-    "identificator": "new_age",
     "name": "NEW AGE",
     "stream": "https://live.radiospinner.com/nwagewv-96",
     "picture": "https://glavnoeradio.ru/2610/logo/1new_age.jpg",
@@ -96,7 +84,6 @@
     "category": "club"
   },
   {
-    "identificator": "chillhop",
     "name": "CHILLHOP LOFI",
     "stream": "https://streams.ilovemusic.de/iloveradio17.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/1chillhop_lofi.jpg",
@@ -104,7 +91,6 @@
     "category": "relax"
   },
   {
-    "identificator": "rock_ballads",
     "name": "Rock Ballads",
     "stream": "https://live.radiospinner.com/rckbllds-96",
     "picture": "https://glavnoeradio.ru/2610/logo/rock-ballads.jpg",
@@ -112,7 +98,6 @@
     "category": "rock"
   },
   {
-    "identificator": "edm_radio",
     "name": "EDM RADIO (320 kbps)",
     "stream": "https://my.radioprocessor.com:8100/edm-320.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/edm_radio.jpg",
@@ -120,7 +105,6 @@
     "category": "edm"
   },
   {
-    "identificator": "soyuz_fm",
     "name": "Союз ФМ",
     "stream": "https://soyuzfm.su:8100/soyuzfm-192.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/soyuz_fm.jpg",
@@ -128,7 +112,6 @@
     "category": "retro"
   },
   {
-    "identificator": "vesti_fm",
     "name": "Вести FM\nпрямой эфир (32 kbps)",
     "stream": "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
     "picture": "https://glavnoeradio.ru/2610/logo/vestifm.webp",
@@ -136,7 +119,6 @@
     "category": "news"
   },
   {
-    "identificator": "mayak",
     "name": "Маяк\nпрямой эфир (64 kbps)",
     "stream": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
     "picture": "https://glavnoeradio.ru/2610/logo/mayak.webp",
@@ -144,7 +126,6 @@
     "category": "news"
   },
   {
-    "identificator": "kp",
     "name": "Комсомольская правда\nпрямой эфир (64 kbps)",
     "stream": "https://kpradio.hostingradio.ru:8000/64",
     "picture": "https://glavnoeradio.ru/2610/logo/kpravda.webp",
@@ -152,7 +133,6 @@
     "category": "news"
   },
   {
-    "identificator": "soloviev_fm2",
     "name": "Соловьёв ФМ\nпрямой эфир (32 kbps)",
     "stream": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "picture": "https://glavnoeradio.ru/2610/logo/solovev_fm.jpg",
@@ -160,7 +140,6 @@
     "category": "news"
   },
   {
-    "identificator": "zvezda",
     "name": "Звезда\nПрямой эфир",
     "stream": "https://fed.fmplay.ru:8000/zvezda-32.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/zvezda.png",
@@ -168,7 +147,6 @@
     "category": "news"
   },
   {
-    "identificator": "z_fm",
     "name": "Z-FM.RU - ПЕРВОЕ ФРОНТОВОЕ",
     "stream": "https://zfm.hostingradio.ru/zfm128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/z-fm.jpg",
@@ -176,7 +154,6 @@
     "category": "pop"
   },
   {
-    "identificator": "iz",
     "name": "Известия ФМ\nЗвуковой эфир телеканала",
     "stream": "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
     "picture": "https://glavnoeradio.ru/2610/logo/iz.png",
@@ -184,7 +161,6 @@
     "category": "news"
   },
   {
-    "identificator": "rossia24",
     "name": "Россия 24\nЗвуковой эфир телеканала",
     "stream": "https://vgtrkregion.cdnvideo.ru/vgtrk/kazan/russia24sd/playlist.m3u8",
     "picture": "https://glavnoeradio.ru/2610/logo/rossia24.webp",
@@ -192,7 +168,6 @@
     "category": "news"
   },
   {
-    "identificator": "radio_rossia",
     "name": "Радио России\nПрямой эфир",
     "stream": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
     "picture": "https://glavnoeradio.ru/2610/logo/rrossii.webp",
@@ -200,7 +175,6 @@
     "category": "news"
   },
   {
-    "identificator": "kultura",
     "name": "Культура",
     "stream": "https://fed.fmplay.ru:8000/kultura-32.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/kultura.webp",
@@ -208,7 +182,6 @@
     "category": "retro"
   },
   {
-    "identificator": "tnt",
     "name": "ТНТ музыка",
     "stream": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3?radiostatistica=tntmusic.ru",
     "picture": "https://glavnoeradio.ru/2610/logo/tnt.jpg",
@@ -216,7 +189,6 @@
     "category": "pop"
   },
   {
-    "identificator": "chill_relax",
     "name": "Chill & Relax",
     "stream": "https://live.radiospinner.com/enigmatic-chill-64",
     "picture": "https://glavnoeradio.ru/2610/logo/chill_relax.jpg",
@@ -224,7 +196,6 @@
     "category": "relax"
   },
   {
-    "identificator": "cloud_rap",
     "name": "Cloud Rap",
     "stream": "http://213.141.131.10:8004/cloudrap",
     "picture": "https://glavnoeradio.ru/2610/logo/cloud_rap.jpg",
@@ -232,7 +203,6 @@
     "category": "rap"
   },
   {
-    "identificator": "top_100_ru",
     "name": "ТОР 100 RU",
     "stream": "https://ic1.radiosignal.one/top100",
     "picture": "https://glavnoeradio.ru/2610/logo/top100.jpg",
@@ -240,7 +210,6 @@
     "category": "retro"
   },
   {
-    "identificator": "lofi",
     "name": "Lo-Fi",
     "stream": "https://radiorecord.hostingradio.ru/lofi96.aacp",
     "picture": "https://glavnoeradio.ru/2610/logo/lo-fi.jpg",
@@ -248,7 +217,6 @@
     "category": "lofi"
   },
   {
-    "identificator": "novoe_radio",
     "name": "Новое Радио",
     "stream": "https://stream.newradio.ru/novoe96.aacp",
     "picture": "https://glavnoeradio.ru/2610/logo/novoe.png",
@@ -256,7 +224,6 @@
     "category": "retro"
   },
   {
-    "identificator": "radio_respublika",
     "name": "Радио Республика\nДонецк 99.0",
     "stream": "http://212.66.37.40:8000/radiorepublic",
     "picture": "https://glavnoeradio.ru/2610/logo/respublika.jpg",
@@ -264,7 +231,6 @@
     "category": "retro"
   },
   {
-    "identificator": "costa_del_mar",
     "name": "Costa Del Mar",
     "stream": "https://live.radiospinner.com/costdemar-64",
     "picture": "https://glavnoeradio.ru/2610/logo/costadelmar.jpg",
@@ -272,7 +238,6 @@
     "category": "retro"
   },
   {
-    "identificator": "retro_hit",
     "name": "Ретро ХИТ",
     "stream": "https://retro.amgradio.ru/Retro",
     "picture": "https://glavnoeradio.ru/2610/logo/retrohit.jpg",
@@ -280,7 +245,6 @@
     "category": "retro"
   },
   {
-    "identificator": "europa_plus",
     "name": "Europa Plus",
     "stream": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/europaplus.webp",
@@ -288,7 +252,6 @@
     "category": "retro"
   },
   {
-    "identificator": "horoshee",
     "name": "Хорошее Радио",
     "stream": "https://hr.amgradio.ru/Horoshee",
     "picture": "https://glavnoeradio.ru/2610/logo/horoshee.webp",
@@ -296,7 +259,6 @@
     "category": "pop"
   },
   {
-    "identificator": "zaycev_disco",
     "name": "Зайцев Disco",
     "stream": "https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/zaycev.jpg",
@@ -304,7 +266,6 @@
     "category": "retro"
   },
   {
-    "identificator": "detskiy_hit",
     "name": "Детский ХИТ",
     "stream": "https://deti.amgradio.ru/Deti",
     "picture": "https://glavnoeradio.ru/2610/logo/1395.webp",
@@ -312,7 +273,6 @@
     "category": "retro"
   },
   {
-    "identificator": "detskie_skazki",
     "name": "Детские сказки",
     "stream": "https://live.radiospinner.com/dtskskzki-64",
     "picture": "https://glavnoeradio.ru/2610/logo/detskieskazki.jpg",
@@ -320,7 +280,6 @@
     "category": "retro"
   },
   {
-    "identificator": "Boris_Brejcha",
     "name": "Boris Brejcha - DFM music",
     "stream": "https://live.radiospinner.com/brsbrjch-64",
     "picture": "https://glavnoeradio.ru/2610/logo/boris-brejcha.jpg",
@@ -328,7 +287,6 @@
     "category": "retro"
   },
   {
-    "identificator": "Monte_Carlo",
     "name": "Monte Carlo",
     "stream": "https://radio2.vip-radios.fm:18074/stream-mp3-CoolMusic",
     "picture": "https://glavnoeradio.ru/2610/logo/montecarlo.webp",
@@ -336,7 +294,6 @@
     "category": "retro"
   },
   {
-    "identificator": "Pilot_FM",
     "name": "Pilot FM",
     "stream": "https://online.pilotfm.ru/pilot_aacplus",
     "picture": "https://glavnoeradio.ru/2610/logo/pilotfm.jpg",
@@ -344,7 +301,6 @@
     "category": "retro"
   },
   {
-    "identificator": "donat_fm_sssr",
     "name": "Донат ФМ - СССР",
     "stream": "https://c6.radioboss.fm:18098/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/donatfmsssr.jpg",
@@ -352,7 +308,6 @@
     "category": "retro"
   },
   {
-    "identificator": "donat_fm_rus_pop",
     "name": "Донат ФМ - Русский ПОП",
     "stream": "https://c6.radioboss.fm:18099/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/donatfmrus.jpg",
@@ -360,7 +315,6 @@
     "category": "retro"
   },
   {
-    "identificator": "donat_fm_rus_rock",
     "name": "Донат ФМ - Русский РОК",
     "stream": "https://c6.radioboss.fm:18097/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/donatfmrusrock.jpg",
@@ -368,7 +322,6 @@
     "category": "retro"
   },
   {
-    "identificator": "donat_fm_zarubeznie_hiti",
     "name": "Донат ФМ - Зарубежные Хиты",
     "stream": "https://c6.radioboss.fm:18089/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/donatfmzap.jpg",
@@ -376,7 +329,6 @@
     "category": "retro"
   },
   {
-    "identificator": "donat_fm_shanson",
     "name": "Донат ФМ - Шансон",
     "stream": "https://c6.radioboss.fm:18096/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/donatfmshanson.jpg",
@@ -384,7 +336,6 @@
     "category": "retro"
   },
   {
-    "identificator": "zaycev_club",
     "name": "Зайцев Club",
     "stream": "https://zaycevfm.cdnvideo.ru/ZaycevFM_club_128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/zaycev-club.jpg",
@@ -392,7 +343,6 @@
     "category": "retro"
   },
   {
-    "identificator": "capital_fm",
     "name": "Capital FM",
     "stream": "https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3",
     "picture": "https://glavnoeradio.ru/2610/logo/capital_fm.jpg",
@@ -400,7 +350,6 @@
     "category": "moscow"
   },
   {
-    "identificator": "remix_fm",
     "name": "Remix FM",
     "stream": "https://air4.amgradio.ru/RemixFM",
     "picture": "https://glavnoeradio.ru/2610/logo/remix_fm.jpg",
@@ -408,7 +357,6 @@
     "category": "pop"
   },
   {
-    "identificator": "psy_hitech",
     "name": "HITECH PSYSTATION",
     "stream": "https://fr1-play.adtonos.com/8105/psystation-psycore",
     "picture": "https://glavnoeradio.ru/2610/logo/hitech.webp",
@@ -416,7 +364,6 @@
     "category": "psy"
   },
   {
-    "identificator": "radio_dacha",
     "name": "Радио Дача",
     "stream": "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64",
     "picture": "https://glavnoeradio.ru/2610/logo/rd.png",
@@ -424,7 +371,6 @@
     "category": "retro"
   },
   {
-    "identificator": "pesna_goda",
     "name": "Песня Года",
     "stream": "https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_2_pesnyagoda_56",
     "picture": "https://glavnoeradio.ru/2610/logo/pg.jpg",
@@ -432,7 +378,6 @@
     "category": "retro"
   },
   {
-    "identificator": "nashe_radio",
     "name": "Наше Радио",
     "stream": "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/nashe.webp",
@@ -440,7 +385,6 @@
     "category": "retro"
   },
   {
-    "identificator": "moscow_fm",
     "name": "Москва FM 92.0FM",
     "stream": "http://icecast.vgtrk.cdnvideo.ru/moscowfm128",
     "picture": "https://glavnoeradio.ru/2610/logo/moskva_FM_92_0.png",
@@ -448,7 +392,6 @@
     "category": "retro"
   },
   {
-    "identificator": "sound_park_deep",
     "name": "SOUND PARK DEEP",
     "stream": "https://relay3.radiotoolkit.com/spdeep",
     "picture": "https://glavnoeradio.ru/2610/logo/soundparkdeep.jpg",
@@ -456,7 +399,6 @@
     "category": "retro"
   },
   {
-    "identificator": "chill_kamchatka",
     "name": "CHILL Камчатка",
     "stream": "http://radio.kamchatkalive.ru:8100/chillout",
     "picture": "https://glavnoeradio.ru/2610/logo/chillout-kamchatka.png",
@@ -464,7 +406,6 @@
     "category": "retro"
   },
   {
-    "identificator": "govorit_moscow",
     "name": "Говорит Москва 94.8FM\nонлайн",
     "stream": "https://fed.fmplay.ru:8000/gmoskva-32.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/govorit_moskva94_8.png",
@@ -472,7 +413,6 @@
     "category": "retro"
   },
   {
-    "identificator": "ultra",
     "name": "Ultra",
     "stream": "http://nashe1.hostingradio.ru:80/ultra-256",
     "picture": "https://glavnoeradio.ru/2610/logo/ultra.png",
@@ -480,7 +420,6 @@
     "category": "retro"
   },
   {
-    "identificator": "capital_fm",
     "name": "Capital FM 105.3\nhttp://capitalfm.moscow/",
     "stream": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
     "picture": "https://glavnoeradio.ru/2610/logo/capital_fm.jpg",
@@ -488,7 +427,6 @@
     "category": "retro"
   },
   {
-    "identificator": "avto_radio",
     "name": "АвтоРадио",
     "stream": "http://ic7.101.ru:8000/v3_1",
     "picture": "https://glavnoeradio.ru/2610/logo/avtoradio.png",
@@ -496,7 +434,6 @@
     "category": "retro"
   },
   {
-    "identificator": "business_fm",
     "name": "87,5 BUSINESS FM\nПервое деловое радио",
     "stream": "https://bfm.hostingradio.ru:9075/fm",
     "picture": "https://glavnoeradio.ru/2610/logo/bfm.webp",
@@ -504,7 +441,6 @@
     "category": "retro"
   },
   {
-    "identificator": "russian_songs",
     "name": "Russian Songs",
     "stream": "http://listen.rusongs.ru/ru-mp3-128",
     "picture": "https://glavnoeradio.ru/2610/logo/russian_songs.jpg",
@@ -512,7 +448,6 @@
     "category": "retro"
   },
   {
-    "identificator": "keks_fm",
     "name": "Кекс FM Rus",
     "stream": "http://emg02.hostingradio.ru/keksfm64.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/keks.webp",
@@ -520,7 +455,6 @@
     "category": "retro"
   },
   {
-    "identificator": "kommersant_fm",
     "name": "Коммерсантъ FM\nрадио новостей",
     "stream": "https://fed.fmplay.ru:8000/kommersant-32.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/kommersant.webp",
@@ -528,7 +462,6 @@
     "category": "retro"
   },
   {
-    "identificator": "rock_stancia",
     "name": "Рок Станция",
     "stream": "https://rockstation.radiostream.pro/mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/rockstancia.jpg",
@@ -536,7 +469,6 @@
     "category": "rock"
   },
   {
-    "identificator": "russkoe_radio",
     "name": "Русское Радио",
     "stream": "https://rusradio.hostingradio.ru/rusradio128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/rusradio.webp",
@@ -544,7 +476,6 @@
     "category": "retro"
   },
   {
-    "identificator": "dorojnoe_radio",
     "name": "Дорожное Радио",
     "stream": "http://dorognoe.hostingradio.ru:8000/dorognoe",
     "picture": "https://glavnoeradio.ru/2610/logo/dorojnoe.png",
@@ -552,7 +483,6 @@
     "category": "retro"
   },
   {
-    "identificator": "rockfm",
     "name": "Rock FM",
     "stream": "https://nashe1.hostingradio.ru/rock-128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/rockfm.jpg",
@@ -560,7 +490,6 @@
     "category": "rock"
   },
   {
-    "identificator": "dorojnoe_tancpol",
     "name": "Дорожное Танцпол",
     "stream": "https://dorognoe.hostingradio.ru/dorognoe1945.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/drdance.png",
@@ -568,7 +497,6 @@
     "category": "retro"
   },
   {
-    "identificator": "russian_mix",
     "name": "Русский Микс",
     "stream": "https://radiorecord.hostingradio.ru/rus96.aacp",
     "picture": "https://glavnoeradio.ru/2610/logo/russianmix.jpg",
@@ -576,7 +504,6 @@
     "category": "pop"
   },
   {
-    "identificator": "sputnik",
     "name": "Sputnik",
     "stream": "https://fed.fmplay.ru:8000/sputnik-32.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/sputnik.webp",
@@ -584,7 +511,6 @@
     "category": "retro"
   },
   {
-    "identificator": "rus_rock",
     "name": "Русский Рок",
     "stream": "http://rock.volna.top/RusRock",
     "picture": "https://glavnoeradio.ru/2610/logo/russianrock.jpg",
@@ -592,7 +518,6 @@
     "category": "rock"
   },
   {
-    "identificator": "radio_romantika",
     "name": "Радио Романтика",
     "stream": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/101",
     "picture": "https://glavnoeradio.ru/2610/logo/radio-romantika.png",
@@ -600,7 +525,6 @@
     "category": "retro"
   },
   {
-    "identificator": "radio_mir",
     "name": "Радио МИР",
     "stream": "https://str3.pcradio.ru/radiomir_fm-hi",
     "picture": "https://glavnoeradio.ru/2610/logo/mir.webp",
@@ -608,7 +532,6 @@
     "category": "retro"
   },
   {
-    "identificator": "meta_radio",
     "name": "META RADIO",
     "stream": "https://s2.metaradio.ru/mradio.aacp",
     "picture": "https://glavnoeradio.ru/2610/logo/meta.jpg",
@@ -616,7 +539,6 @@
     "category": "pop"
   },
   {
-    "identificator": "pervoe_radio",
     "name": "Первое радио",
     "stream": "https://stream.pervoe.fm:8443/",
     "picture": "https://glavnoeradio.ru/2610/logo/pervoe.jpg",
@@ -624,7 +546,6 @@
     "category": "retro"
   },
   {
-    "identificator": "klassnoe_radio",
     "name": "Классное Радио",
     "stream": "https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/klassnoeradio.jpg",
@@ -632,7 +553,6 @@
     "category": "retro"
   },
   {
-    "identificator": "radio_fantastiki",
     "name": "Радио Фантастики",
     "stream": "http://fantasyradioru.no-ip.biz:8008/;stream.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/fantastika.jpg",
@@ -640,7 +560,6 @@
     "category": "retro"
   },
   {
-    "identificator": "model_dla_sborki",
     "name": "Модель для сборки",
     "stream": "http://mds-station.com:8000/mds",
     "picture": "https://glavnoeradio.ru/2610/logo/mds.png",
@@ -648,7 +567,6 @@
     "category": "retro"
   },
   {
-    "identificator": "iskatel",
     "name": "Искатель",
     "stream": "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/iskatel.webp",
@@ -656,7 +574,6 @@
     "category": "retro"
   },
   {
-    "identificator": "deep_fm",
     "name": "Deep FM",
     "stream": "https://deep.amgradio.ru/DeepFM",
     "picture": "https://glavnoeradio.ru/2610/logo/deep-fm.jpg",
@@ -664,7 +581,6 @@
     "category": "retro"
   },
   {
-    "identificator": "chocolate_fm",
     "name": "Chocolate FM",
     "stream": "https://choco.hostingradio.ru:10010/fm",
     "picture": "https://glavnoeradio.ru/2610/logo/chocolate.webp",
@@ -672,7 +588,6 @@
     "category": "retro"
   },
   {
-    "identificator": "maks_fm",
     "name": "Макс FM\nСочи (128 kbps)",
     "stream": "https://maksfm.hostingradio.ru/maksfm128.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/maks-fm.jpg",
@@ -680,7 +595,6 @@
     "category": "retro"
   },
   {
-    "identificator": "record_tech_house",
     "name": "Tech House",
     "stream": "https://radiorecord.hostingradio.ru/techouse96.aacp",
     "picture": "https://glavnoeradio.ru/2610/logo/record_tech_house.jpg",
@@ -688,7 +602,6 @@
     "category": "tech"
   },
   {
-    "identificator": "russian_hit",
     "name": "Русский ХИТ",
     "stream": "https://rp.amgradio.ru/RuWave48",
     "picture": "https://glavnoeradio.ru/2610/logo/257.webp",
@@ -696,7 +609,6 @@
     "category": "retro"
   },
   {
-    "identificator": "radio_pobedy",
     "name": "Радио Победы\nПрямой эфир",
     "stream": "http://178.46.155.73:8000/rp",
     "picture": "https://glavnoeradio.ru/2610/logo/pobeda.png",
@@ -704,7 +616,6 @@
     "category": "retro"
   },
   {
-    "identificator": "radiola",
     "name": "Радиола",
     "stream": "https://radiola.hostingradio.ru/radiola_sam_64.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/radiolasrt.webp",
@@ -712,7 +623,6 @@
     "category": "retro"
   },
   {
-    "identificator": "123",
     "name": "Советская эстрада",
     "stream": "https://evcast.mediacp.eu:2075/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/sovetestrada.jpg",
@@ -720,7 +630,6 @@
     "category": "retro"
   },
   {
-    "identificator": "trance_classic",
     "name": "Trance Classic",
     "stream": "https://s2.radioparty.pl:8000/trance",
     "picture": "https://glavnoeradio.ru/2610/logo/trance_classic.jpg",
@@ -728,7 +637,6 @@
     "category": "trance"
   },
   {
-    "identificator": "comedy",
     "name": "Comedy Radio",
     "stream": "http://online-1.gkvr.ru:8000/comedy_kem_64.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/comedy.jpg",
@@ -736,7 +644,6 @@
     "category": "talk"
   },
   {
-    "identificator": "radio_shock",
     "name": "Радио ШОК",
     "stream": "https://spb.radioshock.ru/radioshock48",
     "picture": "https://glavnoeradio.ru/2610/logo/radio_shock.jpg",
@@ -744,7 +651,6 @@
     "category": "rock"
   },
   {
-    "identificator": "voltage_chill",
     "name": "Voltage CHILL",
     "stream": "https://radio.voltagefm.ru:9009/VoltageCHILL_64_aac",
     "picture": "https://glavnoeradio.ru/2610/logo/chill_fm.jpg",
@@ -752,7 +658,6 @@
     "category": "chill"
   },
   {
-    "identificator": "garage",
     "name": "Гараж ФМ",
     "stream": "https://garagefm.ru/streaming/Garagefm128",
     "picture": "https://glavnoeradio.ru/2610/logo/garage_fm.jpg",
@@ -760,7 +665,6 @@
     "category": "pop"
   },
   {
-    "identificator": "124",
     "name": "Radio Nostalgia",
     "stream": "https://c18.radioboss.fm:8016/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/nostalgia.jpg",
@@ -768,7 +672,6 @@
     "category": "retro"
   },
   {
-    "identificator": "tvoya_volna",
     "name": "Твоя Волна",
     "stream": "https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna",
     "picture": "https://glavnoeradio.ru/2610/logo/tvoya_volna.jpg",
@@ -776,7 +679,6 @@
     "category": "retro"
   },
   {
-    "identificator": "125",
     "name": "Старое Доброе Радио\nПрямой эфир",
     "stream": "http://91.189.162.134:8008/stream.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/staroe-dobroe-radio.jpg",
@@ -784,7 +686,6 @@
     "category": "retro"
   },
   {
-    "identificator": "hype_fm",
     "name": "ХАЙП FM - HYPE FM",
     "stream": "https://hfm.volna.top/HypeFM",
     "picture": "https://glavnoeradio.ru/2610/logo/hype_fm.jpg",
@@ -792,7 +693,6 @@
     "category": "pop"
   },
   {
-    "identificator": "126",
     "name": "Italo4You",
     "stream": "https://ssl-1.radiohost.pl:8018/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/italo4you.jpg",
@@ -800,7 +700,6 @@
     "category": "retro"
   },
   {
-    "identificator": "legkoe_radio",
     "name": "Лёгкое Радио",
     "stream": "https://stream.audiodiz.ru/listen/light/radio",
     "picture": "https://glavnoeradio.ru/2610/logo/legkoe.jpg",
@@ -808,7 +707,6 @@
     "category": "relax"
   },
   {
-    "identificator": "127",
     "name": "1000 Italo Hits",
     "stream": "https://1000italohits.stream.laut.fm/1000italohits",
     "picture": "https://glavnoeradio.ru/2610/logo/1000italohits.jpg",
@@ -816,7 +714,6 @@
     "category": "retro"
   },
   {
-    "identificator": "128",
     "name": "Italo New Generation",
     "stream": "https://cast1.torontocast.com:1310/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/new-generation.jpg",
@@ -824,7 +721,6 @@
     "category": "retro"
   },
   {
-    "identificator": "129",
     "name": "RMI Italo Disco Classic",
     "stream": "https://cast1.torontocast.com:1165/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/classic.png",
@@ -832,7 +728,6 @@
     "category": "retro"
   },
   {
-    "identificator": "130",
     "name": "RMI Euro Disco",
     "stream": "https://cast1.torontocast.com:1335/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/euro-disco.png",
@@ -840,7 +735,6 @@
     "category": "retro"
   },
   {
-    "identificator": "131",
     "name": "Ретро ФМ\nПрямой эфир (256 kbps)",
     "stream": "https://retro.hostingradio.ru:8043/retro256.mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/retro.webp",
@@ -848,7 +742,6 @@
     "category": "retro"
   },
   {
-    "identificator": "132",
     "name": "Радио ЖиZнь 9Z.ZFM",
     "stream": "https://stream.zhizn-fm.ru:8443/life",
     "picture": "https://glavnoeradio.ru/2610/logo/zizn.webp",
@@ -856,7 +749,6 @@
     "category": "retro"
   },
   {
-    "identificator": "zara_fm",
     "name": "Жара FM",
     "stream": "https://live1.zharafm.ru/internet",
     "picture": "https://glavnoeradio.ru/2610/logo/zara_fm.jpg",
@@ -864,7 +756,6 @@
     "category": "pop"
   },
   {
-    "identificator": "133",
     "name": "VoltageFM",
     "stream": "https://radio.voltagefm.ru:9009/VOLTAGEFM",
     "picture": "https://glavnoeradio.ru/2610/logo/voltage-fm.png",
@@ -872,7 +763,6 @@
     "category": "retro"
   },
   {
-    "identificator": "134",
     "name": "VoltageFM CCCP",
     "stream": "https://radio.voltagefm.ru:9009/VoltageUSSR_64_aac",
     "picture": "https://glavnoeradio.ru/2610/logo/voltage-ussr.jpg",
@@ -880,7 +770,6 @@
     "category": "retro"
   },
   {
-    "identificator": "135",
     "name": "VoltageFM Rock",
     "stream": "https://radio.voltagefm.ru:9009/VoltageROCK_64_aac",
     "picture": "https://glavnoeradio.ru/2610/logo/voltage-rock.jpg",
@@ -888,7 +777,6 @@
     "category": "retro"
   },
   {
-    "identificator": "passaj",
     "name": "Радио Пассаж\n(хиты, евродэнс, диско, поп)",
     "stream": "https://listen.radiopassazh.ru/aac-64",
     "picture": "https://glavnoeradio.ru/2610/logo/passaj.jpg",
@@ -896,7 +784,6 @@
     "category": "pop"
   },
   {
-    "identificator": "136",
     "name": "Радио Шансон\nПрямой эфир",
     "stream": "https://fed.fmplay.ru:8000/shanson-32.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/shanson.webp",
@@ -904,7 +791,6 @@
     "category": "retro"
   },
   {
-    "identificator": "marusa_fm",
     "name": "Маруся ФМ",
     "stream": "http://radio-holding.ru:9000/marusya_aac_32",
     "picture": "https://glavnoeradio.ru/2610/logo/marusya.webp",
@@ -912,7 +798,6 @@
     "category": "retro"
   },
   {
-    "identificator": "marusa_fm_volgodonsk",
     "name": "Маруся ФМ\n(Волгодонск)",
     "stream": "http://listen.vdfm.ru:8000/marusya",
     "picture": "https://glavnoeradio.ru/2610/logo/marus_volgodonsk.jpg",
@@ -920,7 +805,6 @@
     "category": "retro"
   },
   {
-    "identificator": "pi_fm",
     "name": "Радио ПИ FM",
     "stream": "https://cdn.pifm.ru/mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/pi_fm.jpg",
@@ -928,7 +812,6 @@
     "category": "pop"
   },
   {
-    "identificator": "50_alushta",
     "name": "Радио 50\n(Алушта 107.9)",
     "stream": "http://radio-holding.ru:9000/50",
     "picture": "https://glavnoeradio.ru/2610/logo/50.jpg",
@@ -936,7 +819,6 @@
     "category": "region"
   },
   {
-    "identificator": "vladivostok_fm",
     "name": "Владивосток ФМ",
     "stream": "http://vladfm.ru:8000/vfm",
     "picture": "https://glavnoeradio.ru/2610/logo/vladivostok_fm.jpg",
@@ -944,7 +826,6 @@
     "category": "region"
   },
   {
-    "identificator": "fm_na_donu",
     "name": "Радио ФМ на Дону\nВолгодонск 106.3 FM",
     "stream": "http://listen.vdfm.ru:8000/fmnadonu",
     "picture": "https://glavnoeradio.ru/2610/logo/fm_na_donu.jpg",
@@ -952,7 +833,6 @@
     "category": "region"
   },
   {
-    "identificator": "tatar_radio_kazan",
     "name": "Татар Радиосы\n(Казань)",
     "stream": "http://stream.tatarradio.ru:2068/kazan.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/tatar-radiosyi.jpg",
@@ -960,7 +840,6 @@
     "category": "region"
   },
   {
-    "identificator": "radio_ussr",
     "name": "Радио СССР",
     "stream": "https://myradio24.org/ussr",
     "picture": "https://glavnoeradio.ru/2610/logo/radio_ussr.jpg",
@@ -968,7 +847,6 @@
     "category": "retro"
   },
   {
-    "identificator": "radio_piligrim",
     "name": "Христианское Радио Пилигрим",
     "stream": "http://radiopiligrim.ru:8000/none-stop",
     "picture": "https://glavnoeradio.ru/2610/logo/radio_piligrim.jpg",
@@ -976,7 +854,6 @@
     "category": "pop"
   },
   {
-    "identificator": "138",
     "name": "Хитрое Радио",
     "stream": "https://stream.hitroe.com:8443/stream",
     "picture": "https://glavnoeradio.ru/2610/logo/hitroe.jpg",
@@ -984,7 +861,6 @@
     "category": "retro"
   },
   {
-    "identificator": "140",
     "name": "Radio 80S",
     "stream": "http://stream.laut.fm/80s-radio",
     "picture": "https://glavnoeradio.ru/2610/logo/radio80s.jpg",
@@ -992,7 +868,6 @@
     "category": "retro"
   },
   {
-    "identificator": "141",
     "name": "SpaceSynth",
     "stream": "https://myradio24.org/1987",
     "picture": "https://glavnoeradio.ru/2610/logo/spacesynth.jpg",
@@ -1000,7 +875,6 @@
     "category": "retro"
   },
   {
-    "identificator": "kalina_krasnaya",
     "name": "Калина Красная",
     "stream": "https://icecast-studio21.cdnvideo.ru/KalynaK_1a",
     "picture": "https://glavnoeradio.ru/2610/logo/kalina_krasnaya.webp",
@@ -1008,7 +882,6 @@
     "category": "avtor"
   },
   {
-    "identificator": "142",
     "name": "True Color Radio",
     "stream": "http://online.truecolorsradio.com:9000/45329",
     "picture": "https://glavnoeradio.ru/2610/logo/truecolor.webp",
@@ -1016,7 +889,6 @@
     "category": "retro"
   },
   {
-    "identificator": "143",
     "name": "Ретро Gold",
     "stream": "https://live.radiospinner.com/rtrgld-64",
     "picture": "https://glavnoeradio.ru/2610/logo/retro-gold.jpg",
@@ -1024,7 +896,6 @@
     "category": "retro"
   },
   {
-    "identificator": "144",
     "name": "Ностальжи Россия",
     "stream": "https://listen7.myradio24.com/alexx333",
     "picture": "https://glavnoeradio.ru/2610/logo/638.webp",
@@ -1032,7 +903,6 @@
     "category": "retro"
   },
   {
-    "identificator": "146",
     "name": "Волгоград 24\nПрямой эфир",
     "stream": "https://s0.radioheart.ru:8000/RH59163",
     "picture": "https://glavnoeradio.ru/2610/logo/volgograd24.jpg",
@@ -1040,7 +910,6 @@
     "category": "retro"
   },
   {
-    "identificator": "147",
     "name": "Вести FM\nКубань",
     "stream": "https://icecast-vgtrk.cdnvideo.ru/vesti_kuban",
     "picture": "https://glavnoeradio.ru/2610/logo/vestifm_kuban.jpg",
@@ -1048,7 +917,6 @@
     "category": "retro"
   },
   {
-    "identificator": "148",
     "name": "Радио Краснодар",
     "stream": "https://icecast-radiokrasnodar.cdnvideo.ru/radiokrasnodar_1_mp3_128",
     "picture": "https://glavnoeradio.ru/2610/logo/radiokrasnodar.webp",
@@ -1056,7 +924,6 @@
     "category": "retro"
   },
   {
-    "identificator": "jazz",
     "name": "JAZZ радио",
     "stream": "https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-64.aac",
     "picture": "https://glavnoeradio.ru/2610/logo/jazz.jpg",
@@ -1064,7 +931,6 @@
     "category": "jazz"
   },
   {
-    "identificator": "sandra_fm",
     "name": "Сандра ФМ",
     "stream": "https://str3.pcradio.ru/Sandra-hi",
     "picture": "https://glavnoeradio.ru/2610/logo/sandra.jpg",
@@ -1072,7 +938,6 @@
     "category": "retro"
   },
   {
-    "identificator": "151",
     "name": "Челентано ФМ",
     "stream": "https://str6.pcradio.ru/Chelentano-hi",
     "picture": "https://glavnoeradio.ru/2610/logo/chelentano.jpg",
@@ -1080,7 +945,6 @@
     "category": "retro"
   },
   {
-    "identificator": "korol",
     "name": "КиШ",
     "stream": "https://str2.pcradio.ru/Korol_i_Shut-hi",
     "picture": "https://glavnoeradio.ru/2610/logo/korol.jpg",
@@ -1088,7 +952,6 @@
     "category": "rock"
   },
   {
-    "identificator": "152",
     "name": "Energy Radio",
     "stream": "https://pub0101.101.ru:8000/stream/air/aac/64/99",
     "picture": "https://glavnoeradio.ru/2610/logo/energy.png",
@@ -1096,7 +959,6 @@
     "category": "80"
   },
   {
-    "identificator": "studio21",
     "name": "Studio 21",
     "stream": "https://stream.studio21.ru/studio2196.aacp",
     "picture": "https://glavnoeradio.ru/2610/logo/studio21.jpg",
@@ -1104,7 +966,6 @@
     "category": "rep"
   },
   {
-    "identificator": "pulsradio_hit",
     "name": "PulsRadio Hits",
     "stream": "https://str3.openstream.co/1386",
     "picture": "https://glavnoeradio.ru/2610/logo/pulsradio_hits.jpg",
@@ -1112,7 +973,6 @@
     "category": "hit"
   },
   {
-    "identificator": "rise_fm_classic",
     "name": "RiseFM Classic",
     "stream": "https://stream1.virtualisan.net/prx/8080/risefm_classic_hq",
     "picture": "https://glavnoeradio.ru/2610/logo/rise_fm_classic2.jpg",
@@ -1120,7 +980,6 @@
     "category": "hit"
   },
   {
-    "identificator": "rise_fm_rnb",
     "name": "RiseFM R&B",
     "stream": "https://stream1.virtualisan.net/prx/8080/risefm_rnb_hq",
     "picture": "https://glavnoeradio.ru/2610/logo/rise_fm_rnb3.jpg",
@@ -1128,7 +987,6 @@
     "category": "rnb"
   },
   {
-    "identificator": "rise_fm_deep",
     "name": "RiseFM Deep House",
     "stream": "https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq",
     "picture": "https://glavnoeradio.ru/2610/logo/rise_fm_deep2.jpg",
@@ -1136,7 +994,6 @@
     "category": "hit"
   },
   {
-    "identificator": "rise_fm_hit",
     "name": "RiseFM Hit House",
     "stream": "https://stream1.virtualisan.net/prx/8080/risefm_hithouse_hq",
     "picture": "https://glavnoeradio.ru/2610/logo/rise_fm_hit2.jpg",
@@ -1144,7 +1001,6 @@
     "category": "hit"
   },
   {
-    "identificator": "k_dst",
     "name": "K-DST from GTA San Andreas",
     "stream": "https://play.smolyakov.dev/stream/sa/k-dst",
     "picture": "https://glavnoeradio.ru/2610/logo/k-dst.jpg",
@@ -1152,7 +1008,6 @@
     "category": "hit"
   },
   {
-    "identificator": "gta_classic",
     "name": "GTA Classic from GTA San Andreas",
     "stream": "http://gta-classics.stream.laut.fm/gta-classics",
     "picture": "https://glavnoeradio.ru/2610/logo/gta-classic.webp",
@@ -1160,7 +1015,6 @@
     "category": "hit"
   },
   {
-    "identificator": "vrock",
     "name": "V-ROCK from GTA Vice City",
     "stream": "https://play.smolyakov.dev/stream/vc/vrock",
     "picture": "https://glavnoeradio.ru/2610/logo/vrock.jpg",
@@ -1168,7 +1022,6 @@
     "category": "rock"
   },
   {
-    "identificator": "realfm",
     "name": "REAL FM LIGHTS",
     "stream": "https://5.restream.one/1679_1",
     "picture": "https://glavnoeradio.ru/2610/logo/realfm.jpg",
@@ -1176,7 +1029,6 @@
     "category": "house"
   },
   {
-    "identificator": "bom_psytrance",
     "name": "BOM Psytrance Radio",
     "stream": "https://strm112.1.fm/psytrance_mobile_mp3",
     "picture": "https://glavnoeradio.ru/2610/logo/bom.webp",
@@ -1184,7 +1036,6 @@
     "category": "trance"
   },
   {
-    "identificator": "relax_aplus",
     "name": "Relax Aplus FM",
     "stream": "http://shoutcast.aplus.fm:9000/aplus_relax_128",
     "picture": "https://glavnoeradio.ru/2610/logo/relax_aplus.jpg",
@@ -1192,7 +1043,6 @@
     "category": "relax"
   },
   {
-    "identificator": "dub_techno",
     "name": "Dub Techno",
     "stream": "http://94.130.113.214:8000/dubtechno",
     "picture": "https://glavnoeradio.ru/2610/logo/dub_techno.jpg",
@@ -1200,7 +1050,6 @@
     "category": "dub"
   },
   {
-    "identificator": "atm_fm",
     "name": "ATM FM - Breaks, Progressive Breaks, Atmospheric",
     "stream": "http://station-sound.ru:8000/pt-2",
     "picture": "https://glavnoeradio.ru/2610/logo/atm_fm.jpg",
