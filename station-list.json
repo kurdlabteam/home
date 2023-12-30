@@ -1,17 +1,17 @@
 [
   {
     "identificator": "70",
-    "name": "70S",
-    "stream": "https://live.radiospinner.com/70hs-96",
-    "picture": "https://glavnoeradio.ru/2610/logo/170.jpg",
+    "name": "Rudaw",
+    "stream": "https://l3.itworkscdn.net/itwaudio/9006/stream",
+    "picture": "https://i1.sndcdn.com/avatars-000074792155-cm6cy1-t500x500.jpg",
     "number": "1",
     "category": "retro"
   },
   {
     "identificator": "80",
-    "name": "80S",
-    "stream": "https://live.radiospinner.com/80hs-96",
-    "picture": "https://glavnoeradio.ru/2610/logo/180.jpg",
+    "name": "Rudaw Tv",
+    "stream": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
+    "picture": "https://i1.sndcdn.com/avatars-000074792155-cm6cy1-t500x500.jpg",
     "number": "2",
     "category": "retro"
   },
